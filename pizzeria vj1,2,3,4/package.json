@@ -1,7 +1,7 @@
 {
   "name": "wa2-pizzeria",
   "version": "1.0.0",
-  "description": "WA2 Pizzeria API – Express aplikacija (CommonJS verzija)",
+  "description": "Pizzeria",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

@@ -1,7 +1,7 @@
 {
   "name": "wa2-nekretnine",
   "version": "1.0.0",
-  "description": "Samostalni zadatak 2 - Agencija za nekretnine (Express, CommonJS)",
+  "description": "Samostalni zadatak 2 - Agencija za nekretnine",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
